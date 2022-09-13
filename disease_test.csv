@@ -1,0 +1,41 @@
+disease,drug_name,drug_recommended_dosage,count,drug_cost
+Canavan disease,Canakinumab,16 mg,1,44
+Canavan disease,Nalidixic Acid,40 mg,1,13
+Canavan disease,Gamolenic Acid,18 mg,1,29
+Canavan disease,Polymyxin B Sulfate,100 mg,2,38
+Canavan disease,Alcohol,86 mg,3,65
+Canavan disease,Emedastine,31 mg,4,36
+Canavan disease,Tocopheryl Acetate,10 mg,5,85
+Canavan disease,Estradiol,40 mg,6,59
+Canavan disease,Phenylephrine HCl & Tropicamide,45 mg,7,26
+Canavan disease,Gluten Free/Wheat Free Sweet/Savoury,40 mg,3,42
+Hemophilia,Nicotinates,90 mg,4,93
+Hemophilia,Vedolizumab,43 mg,5,81
+Hemophilia,Other Soothing Haemorrhoidal Preps,78 mg,6,96
+Hemophilia,Other Inhalational Anaesthetic Preps,88 mg,2,25
+Hemophilia,Nefopam Hydrochloride,44 mg,2,94
+Hemophilia,Fluorouracil (Antimetabolites),77 mg,1,62
+Hemophilia,Canakinumab,16 mg,4,44
+Hemophilia,Suspensory Systems,27 mg,1,79
+Hemophilia,Fosinopril Sodium,62 mg,5,72
+Hemophilia,Metformin Hydrochloride/Sitagliptin,69 mg,3,39
+Fabry disease,Mifepristone/Misoprostol,58 mg,2,44
+Fabry disease,Nicardipine Hydrochloride,26 mg,1,99
+Fabry disease,Tegaserod Maleate,94 mg,1,25
+Fabry disease,Clemastine Fumarate,78 mg,1,51
+Fabry disease,Euphorbia,64 mg,1,18
+Fabry disease,Antazoline Hydrochloride,51 mg,1,43
+Fabry disease,Other Contact Lens Preps,61 mg,1,100
+Fabry disease,Testosterone,72 mg,1,72
+Fabry disease,Nilotinib,87 mg,1,54
+Fabry disease,Gluten Free/Low Protein Pasta,70 mg,1,88
+Galactosemia,Anidulafungin,32 mg,1,99
+Galactosemia,Lypressin,25 mg,1,63
+Galactosemia,Adhesives,59 mg,1,11
+Galactosemia,Thyroid Extracts,31 mg,1,31
+Galactosemia,Folic Acid,83 mg,1,51
+Galactosemia,Debrisoquine Sulfate,75 mg,1,66
+Galactosemia,Dapagliflozin/Metformin,67 mg,1,30
+Galactosemia,Ranolazine,23 mg,1,33
+Galactosemia,Methyclothiazide,23 mg,1,68
+Galactosemia,Felbamate,59 mg,1,59
